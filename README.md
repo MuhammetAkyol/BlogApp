@@ -1,5 +1,5 @@
 
-# ASP.NET Core 7.0 BlogApp Eğitimi Serisi
+# ASP.NET Core 7.0 BlogApp
 
 Bu proje, ASP.NET Core 7.0 kullanılarak geliştirilen bir Blog Uygulaması örneğidir. Sıfırdan bir blog uygulaması geliştirmenin adımlarını öğrenebilir ve modern web uygulama geliştirme konusundaki becerilerinizi geliştirebilirsiniz.
 
