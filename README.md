@@ -33,3 +33,7 @@ Bu proje, ASP.NET Core 7.0 kullanılarak geliştirilen bir Blog Uygulaması örn
 - **Post Etiket Yönetimi:** Etiketlerin listelenmesi ve detay sayfası.
 - **Admin Panel:** Yönetici kontrol paneli için admin yetkilendirme işlemleri.
 
+
+
+https://github.com/user-attachments/assets/462a58f4-1941-4eb6-be52-5d4fbd6586dc
+
